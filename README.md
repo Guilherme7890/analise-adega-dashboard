@@ -4,7 +4,7 @@
 
 Este projeto apresenta uma análise de dados de vendas de uma adega, considerando diferentes tipos de compradores, regiões e desempenho de produtos.
 
-Os dados utilizados são fictícios e fora, gerado pelo meu professor para minha ultima apresentação no curso de POWER BI no SENAI, projeto foi desenvolvido por mim e minha dupla David, com foco no desenvolvimento de habilidades analíticas e construção de dashboards.
+Os dados utilizados são fictícios e foram, gerados pelo meu professor para minha ultima apresentação no curso de POWER BI no SENAI, projeto foi desenvolvido por mim e minha dupla David, com foco no desenvolvimento de habilidades analíticas e construção de dashboards.
 
 
 ---
